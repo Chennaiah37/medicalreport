@@ -1,0 +1,22 @@
+Patient: John D., 62M
+Date: 2025-03-01
+
+Chief Complaint: Chronic cough and shortness of breath
+
+History of Present Illness:
+Mr. D is a 62-year-old male with a 40-pack-year smoking history presenting with a 6-month history of progressive dyspnea on exertion and chronic productive cough with yellowish sputum. Patient reports wheeze especially in the mornings. Denies fever or chills. Denies chest pain.
+
+Vitals: BP 130/82, HR 88, RR 22, Temp 98.6F, SpO2 91% on room air
+
+Physical Exam:
+- Barrel chest noted
+- Prolonged expiratory phase
+- Bilateral expiratory wheeze on auscultation
+
+Investigations:
+- Spirometry: FEV1/FVC = 0.62 (post-bronchodilator), consistent with obstructive pattern
+- CXR: Hyperinflation, flattened diaphragm
+
+Assessment: Findings consistent with moderate-to-severe obstructive lung disease.
+
+Plan: Initiate long-acting bronchodilator therapy, pulmonology referral, smoking cessation counselling.

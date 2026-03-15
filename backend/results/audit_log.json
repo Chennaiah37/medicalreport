@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-03-15T18:44:38.285114",
+    "snippet": "Clinical Laboratory Test Report\nPatient Information\nPatient Name: John Doe\nAge / Gender: 35 / Male\nPatient ID: CLN-2026-",
+    "prediction": "Type 2 Diabetes Mellitus",
+    "confidence": 32.1,
+    "engine": "Built-in Clinical NLP (BioClinicalBERT: error_410)"
+  }
+]

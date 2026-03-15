@@ -1,0 +1,32 @@
+SAMPLE CLINICAL NOTES FOR TESTING medReport
+============================================
+
+--- SAMPLE 1: COPD ---
+65-year-old male with 30 pack-year smoking history presenting with chronic productive
+cough for the past 3 years, progressive dyspnea on exertion, and wheezing. Patient
+denies fever or chills. Spirometry shows FEV1/FVC ratio of 0.62. Chest X-ray reveals
+hyperinflation and flattened diaphragm. No signs of pneumonia.
+
+--- SAMPLE 2: GERD ---
+42-year-old female presenting with persistent heartburn and acid regurgitation,
+particularly after meals and at night. Reports burning sensation in chest and sour
+taste in mouth. No chest pain radiating to arm. Symptoms worsen with spicy foods
+and coffee. Endoscopy shows mild esophageal erosion. No dysphagia noted.
+
+--- SAMPLE 3: DIABETIC NEUROPATHY ---
+58-year-old male with 15-year history of Type 2 diabetes, poorly controlled.
+HbA1c at 9.2%. Patient reports numbness and tingling in bilateral feet and lower
+legs with burning pain at night. Denies chest pain or shortness of breath.
+Monofilament test shows reduced sensation. Glucose remains elevated despite Metformin.
+
+--- SAMPLE 4: HYPERTENSION ---
+52-year-old male presenting for routine checkup. Blood pressure recorded at 158/96
+mmHg on three separate occasions. Reports occasional headaches and dizziness.
+Family history of cardiovascular disease. No edema. ECG normal. BMI 29.
+Lifestyle modifications advised previously with poor compliance.
+
+--- SAMPLE 5: MIGRAINE ---
+28-year-old female with recurrent throbbing headache, predominantly unilateral,
+associated with nausea, vomiting, and photophobia. Aura present before onset.
+Frequency: 3-4 episodes per month, each lasting 6-24 hours. Denies fever or
+neck stiffness. No neurological deficits on exam. MRI brain unremarkable.

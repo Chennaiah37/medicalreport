@@ -1,0 +1,20 @@
+Patient: Sarah M., 45F
+Date: 2025-03-05
+
+Chief Complaint: Persistent heartburn and acid regurgitation
+
+History of Present Illness:
+Mrs. M is a 45-year-old female presenting with a 3-month history of heartburn occurring 4-5 times per week. She reports acid reflux especially after large meals and on lying down at night. Notes regurgitation of sour-tasting fluid into the throat. Denies dysphagia. Denies weight loss or hematemesis.
+
+She has tried over-the-counter antacids with partial relief. No prior endoscopy.
+
+Vitals: BP 118/76, HR 74, BMI 26.4
+
+Upper GI Endoscopy:
+- Mild erythema of the distal esophagus
+- No Barrett's esophagus
+- Hiatal hernia (small, 2cm)
+
+Assessment: Gastroesophageal reflux disease (GERD) with mild esophagitis.
+
+Plan: Start PPI therapy (Omeprazole 20mg daily), dietary modifications, elevate head of bed. Follow up in 6 weeks.
