@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 MedReport AI v7.0
 
 > Clinical NLP report analyser — BioClinicalBERT + 51 diseases + plain-English output
@@ -84,3 +85,6 @@ Without a token the built-in clinical NLP engine runs automatically.
 
 This tool is for **educational and research purposes only**.  
 Not a substitute for professional medical advice. Always consult a qualified doctor.
+=======
+# medicalreport
+>>>>>>> 6f08a92044d259fd1f2199fdeb43b7680841f6be
